@@ -3,7 +3,7 @@ public class Binary_Search {
 
     public static void main(String[] args) {
         int[] arr ={1,2,3,4,5,6,7,8,12,23,34,47,58,62,74,85,90};
-        int target = 122;
+        int target = 23;
         int ans = binarySearch(arr, target);
         System.out.println("The element in array found in index : "+ans);
     }
