@@ -1,1 +1,1 @@
-# Data Structures codes using Java
+# Data Structures and Algorithms codes using Java
